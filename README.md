@@ -1,3 +1,5 @@
+A collaboration during the first few weeks of Launch Academy between myself and Parinda Darden (github.com/pdarden). We followed Michael Fairley's tutorial on making a pong game using Hasu and we decided to customize it by incorporating the Nyan Cat meme. 
+
 #Pong
 
 ##Instructions
